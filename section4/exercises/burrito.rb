@@ -32,4 +32,4 @@ p dinner.add_topping
 p dinner.change_protein
 
 dinner = Burrito.new(["Beans", "Steak"], "Rice", ["cheese", "salsa", "guacamole"])
- p dinner.protein 
+ p dinner.protein
